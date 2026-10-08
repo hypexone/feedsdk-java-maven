@@ -3,21 +3,21 @@
   <groupId>com.hypexone.feed.sdk</groupId>
   <artifactId>feed-sdk</artifactId>
   <versioning>
-    <lastUpdated>20261006045815</lastUpdated>
+    <lastUpdated>20261008074645</lastUpdated>
     <snapshot>
-      <timestamp>20261006.045815</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20261008.074645</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>3.3.0-20261006.045815-1</value>
-        <updated>20261006045815</updated>
+        <value>3.3.0-20261008.074645-2</value>
+        <updated>20261008074645</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>3.3.0-20261006.045815-1</value>
-        <updated>20261006045815</updated>
+        <value>3.3.0-20261008.074645-2</value>
+        <updated>20261008074645</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
